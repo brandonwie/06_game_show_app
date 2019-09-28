@@ -1,2 +1,5 @@
-# 06_game_show_app
-6th project with Treehouse
+# WHEEL OF SUCCESS
+> 6th project with Treehouse
+- mini game app created with JavaScript
+- Tried to avoid using jQuery
+
